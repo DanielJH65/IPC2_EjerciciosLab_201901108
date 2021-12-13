@@ -1,8 +1,8 @@
-from lista_simple import lista_simple
+from logica import logica
 
 if __name__ == "__main__":
     opcion = 0
-    nums = lista_simple()
+    l = logica()
     while(opcion != 3):
         try:
             opcion = int(input("""
@@ -19,11 +19,9 @@ if __name__ == "__main__":
             print("Debe ingresar un valor válido")
 
         if opcion == 1:
-            nombre = input("Ingrese el nombre: \n")
-            telefono = input("ingrese el número de teléfono: \n")
-            nums.agregar_final(nombre, telefono)
+            l.leer_archivo()
         elif opcion == 2:
-            nums.recorrer()
+            l.mostrar()
         elif opcion == 3:
             break
         else:

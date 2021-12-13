@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <contacto>
+        <telefono>321654987</telefono>
+        <nombre>Daniel</nombre>
+        <apellido>Jiménez</apellido>
+    </contacto>
+    <contacto>
+        <telefono>852741</telefono>
+        <nombre>Angela</nombre>
+        <apellido>Baez</apellido>
+    </contacto>
+    <contacto>
+        <telefono>15935782</telefono>
+        <nombre>Dulce</nombre>
+        <apellido>Villatoro</apellido>
+    </contacto>
+    <contacto>
+        <telefono>46871236</telefono>
+        <nombre>Melvin</nombre>
+        <apellido>Soto</apellido>
+    </contacto>
+    <contacto>
+        <telefono>3719846255</telefono>
+        <nombre>Ana</nombre>
+        <apellido>Hernánez</apellido>
+    </contacto>
+    <contacto>
+        <telefono>794613225</telefono>
+        <nombre>Madai</nombre>
+        <apellido>Orozco</apellido>
+    </contacto>
+    <contacto>
+        <telefono>1452</telefono>
+        <nombre>Pablo</nombre>
+        <apellido>Solares</apellido>
+    </contacto>
+    <contacto>
+        <telefono>321654987</telefono>
+        <nombre>Ian</nombre>
+        <apellido>Lopez</apellido>
+    </contacto>
+</agenda>
