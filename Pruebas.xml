@@ -13,7 +13,7 @@
     <contacto>
         <telefono>15935782</telefono>
         <nombre>Dulce</nombre>
-        <apellido>Villatoro</apellido>
+        <apellido>Villa</apellido>
     </contacto>
     <contacto>
         <telefono>46871236</telefono>
@@ -39,5 +39,20 @@
         <telefono>321654987</telefono>
         <nombre>Ian</nombre>
         <apellido>Lopez</apellido>
+    </contacto>
+    <contacto>
+        <telefono>1562147923</telefono>
+        <nombre>Marta</nombre>
+        <apellido>Morales</apellido>
+    </contacto>
+    <contacto>
+        <telefono>70000000</telefono>
+        <nombre>Juan</nombre>
+        <apellido>Perez</apellido>
+    </contacto>
+    <contacto>
+        <telefono>11111111</telefono>
+        <nombre>Brenda</nombre>
+        <apellido>Aguilar</apellido>
     </contacto>
 </agenda>
