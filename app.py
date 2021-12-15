@@ -3,7 +3,7 @@ from logica import logica
 if __name__ == "__main__":
     opcion = 0
     l = logica()
-    while(opcion != 3):
+    while(opcion != 4):
         try:
             opcion = int(input("""
 ###############--Menú--###############
@@ -11,7 +11,8 @@ if __name__ == "__main__":
 #   Elija una opción:                #
 #   1) Ingresar Datos                #
 #   2) Mostrar Datos                 #
-#   3) Salir                         #
+#   3) Mostrar Graphviz              #
+#   4) Salir                         #
 #                                    # 
 ######################################  
     """))
@@ -23,6 +24,8 @@ if __name__ == "__main__":
         elif opcion == 2:
             l.mostrar()
         elif opcion == 3:
+            l.grafica()
+        elif opcion == 4:
             break
         else:
             print("Debe ingresar un valor válido")

@@ -1,0 +1,36 @@
+
+            digraph grid{
+                node[shape = circle]
+                layout=dot
+                labelloc = "t"
+                rankdir="LR"
+            11111111[label="Brenda Aguilar
+11111111"];
+852741[label="Angela Baez
+852741"];
+11111111 -> 852741;
+3719846255[label="Ana Hernánez
+3719846255"];
+852741 -> 3719846255;
+321654987[label="Daniel Jiménez
+321654987"];
+3719846255 -> 321654987;
+1562147923[label="Marta Morales
+1562147923"];
+321654987 -> 1562147923;
+794613225[label="Madai Orozco
+794613225"];
+1562147923 -> 794613225;
+70000000[label="Juan Perez
+70000000"];
+794613225 -> 70000000;
+1452[label="Pablo Solares
+1452"];
+70000000 -> 1452;
+46871236[label="Melvin Soto
+46871236"];
+1452 -> 46871236;
+15935782[label="Dulce Villa
+15935782"];
+46871236 -> 15935782;
+}
